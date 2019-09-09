@@ -4,6 +4,10 @@ React Snippets in TypeScript. 该项目承接自 [fe-boilerplates](https://githu
 
 # About
 
+## Motivation & Credits
+
+- [code-red #Project#](https://github.com/Rich-Harris/code-red): Experimental toolkit for writing x-to-JavaScript compilers. May end up getting used in Svelte, if it works.
+
 ## Home & More | 延伸阅读
 
 ![](https://i.postimg.cc/59QVkFPq/image.png)
